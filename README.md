@@ -2,6 +2,10 @@
 
 This repo holds the source code used to answer questions from the coursework for my module ECM2423
 
+Items in the project include:
+- Implementation of K-means clustering alogrithm to determine hand written numbers from imagines and search for patterns in a Pokemon data set for my written report
+- 8 puzzle game implemenation that plays where my algorithm solves the puzzles its self for any N sized puzzle.  
+
 Here contains information on how to run implemented code from coursework specification
 
 ## Installation
