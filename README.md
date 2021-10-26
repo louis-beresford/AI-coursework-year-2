@@ -1,10 +1,10 @@
 # ECM2423 Coursework
 
-This repo holds the source code used to answer questions from the coursework for my module ECM2423
+This repository holds the source code used to answer questions from the coursework for my module ECM2423
 
 Items in the project include:
 - Implementation of K-means clustering alogrithm to determine hand written numbers from imagines
-- K-menas to search for patterns in a Pokemon data set for my written report
+- K-means to search for patterns in a Pokemon data set for my written report
 - 8 puzzle game implemenation where my algorithm solves the puzzles its self using multiple heuristic functions. I also created an implementation that can solve for any N sized puzzle
 
 Here contains information on how to run implemented code from coursework specification
